@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">AlbumViewer</string>
+
+
+    <string-array name="album_names">
+        <item>Jungle Rules</item>
+        <item>Parachutes</item>
+        <item>Views</item>
+    </string-array>
+
+    <string-array name="artist_names">
+        <item>French Montana</item>
+        <item>Coldplay</item>
+        <item>Drake</item>
+    </string-array>
+
+    <string-array name="junglerules">
+        <item>1. Whiskey Eyes</item>
+        <item>2. Unforgettable</item>
+        <item>3. Trippin</item>
+        <item>4. A Lie</item>
+        <item>5. Jump</item>
+        <item>6. Hotel Bathroom</item>
+        <item>7. Famous</item>
+    </string-array>
+
+    <string-array name="parachutes">
+        <item>1. Dont Panic</item>
+        <item>2. Shiver</item>
+        <item>3. Spies</item>
+        <item>4. Sparks</item>
+        <item>5. Yellow</item>
+        <item>6. Trouble</item>
+        <item>7. Parachutes</item>
+        <item>8. High Speed</item>
+        <item>9. We Never Change</item>
+        <item>10. Everythings Not Lost</item>
+
+    </string-array>
+
+    <string-array name="views">
+        <item>1. Hype</item>
+        <item>2. Controlla</item>
+        <item>3. Faithful</item>
+        <item>4. Feel No Ways</item>
+    </string-array>
+</resources>
+
